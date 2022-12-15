@@ -1,6 +1,8 @@
 # Web Design Challenge
 This is an assignment for the University of Minnesota Data Analytics and Visualization Boot Camp.
 
+**To visit this webpage:** (https://jjeranek.github.io/Web-Design-Challenge/)
+
 ![Index Page](Resources/Index_Page.png)
 
 ## Instructions
